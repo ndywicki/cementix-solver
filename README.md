@@ -8,7 +8,7 @@ Then searches for better words with the list of synonyms provided by [rimessolid
 
 # Install & run
 
-I recommand to create an [virtual env](https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments) then install dependecies:
+I recommand to create an [virtual env](https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments) then install dependencies:
 
 ```
 pip install -r requirements.txt
